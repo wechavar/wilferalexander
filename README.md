@@ -59,6 +59,7 @@ I frequently work with the following Python libraries:
 <div>
 <a href="https://github.com/wilferalexander/Covid19" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/covid19.jpeg" width="100%" alt="Curso básico android"></a>
 <p align="justify">Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como científico de datos, tu tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:</p>
+</div>
 <a href="https://github.com/wilferalexander/Covid19/blob/main/Covid19.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -71,7 +72,8 @@ I frequently work with the following Python libraries:
 <div>                                       
 <a href="https://github.com/wilferalexander/-robot_trading-" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python
- capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>                                                         
+ capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>
+</div> 
 <a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
