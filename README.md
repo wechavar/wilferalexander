@@ -93,7 +93,9 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <a href="https://github.com/wilferalexander/Fuga_Empleados/blob/main/Fuga_Empleados.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</div>                                            
 </td>
+</tr> 
  
 <td width="50%">
 <h3>INTERACTIVE SALES DASHBOARD</h3>
@@ -107,6 +109,7 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <a href="https://github.com/wilferalexander/sales_dashboard_streamlit/blob/main/dashboard.py" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</div>
 </td>
 </tr>
 
