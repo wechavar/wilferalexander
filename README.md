@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
 
-<h2>I'm WWECHAVAR</h2>
+<h2>I'm WECHAVAR</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
 <img src="https://github.com/wilferalexander/Graficos/blob/main/Designer.jpeg" width=100% height="400px" max-width: 600px align="center"/>
@@ -70,17 +70,18 @@ I frequently work with the following Python libraries:
 <h3>ROBOT TRADING</h3>
 <div>                                       
 <a href="https://github.com/wilferalexander/-robot_trading-" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>                                                         
+<p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python
+ capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>                                                         
 <a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</div>                                            
+</div>
 </td>
 </tr>                                         
 
 <td width="50%">
 <h3>FUGA EMPLEADOS</h3>
-<div>                                       
+<div>
 <a href="https://github.com/wilferalexander/Fuga_Empleados" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/fugaempleados.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">El objetivo principal del proyecto en el que vas a trabajar es reducir la fuga de empleados en la empresa. Nos enfocamos en tres áreas clave: 
     Entender y cuantificar el problema desde el punto de vista del negocio.
@@ -91,19 +92,19 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <a href="https://github.com/wilferalexander/Fuga_Empleados/blob/main/Fuga_Empleados.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</div>                                            
+</div>
 </td>
-</tr> 
+</tr>
  
 <td width="50%">
 <h3>INTERACTIVE SALES DASHBOARD</h3>
-<div>  
+<div>
 <a href="https://github.com/wilferalexander/sales_dashboard_streamlit" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/storedash.jpeg" width=="100%" alt="Curso básico android"></a>
 <p align="justify">Eejemplo de un  dashboard Funcionalidades
 📊 Visualización de datos de ventas
 📈 Creación de gráficos y tablas interactivos.
 🔍 Filtrado y segmentación de datos por diferentes criterios..</p>
-</div>                                                             
+</div>
 <a href="https://github.com/wilferalexander/sales_dashboard_streamlit/blob/main/dashboard.py" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -114,7 +115,7 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <tr>
 <td width="50%">
 <h3>CREDIT SCORING</h3>
-<div>                                       
+<div>
 <a href="https://github.com/wilferalexander/creditscoring" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/creditscoring.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">Credit Scoring es un proyecto de machine learning enfocado en la predicción de la solvencia crediticia de los individuos. Este proyecto tiene como objetivo desarrollar un modelo predictivo que ayude a las instituciones financieras a tomar decisiones informadas sobre la concesión de créditos. . La importancia de reducir el riesgo crediticio es clave en el sector financiero. Nuestro cliente, una institución financiera alemana, ha reconocido la necesidad de adoptar enfoques innovadores para mejorar su capacidad de evaluar el riesgo crediticio de los clientes. La misión principal es identificar y clasificar a los clientes en dos categorías: "Buen Cliente (0)" y "Mal Cliente (1)". Este análisis permitirá a la institución tomar decisiones informadas y mitigar el riesgo de pérdidas crediticias.</p>
                                                         
