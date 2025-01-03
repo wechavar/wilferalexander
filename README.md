@@ -81,9 +81,6 @@ I frequently work with the following Python libraries:
 </td>
 </tr>
 
-
-
-
 </table> 
 
 
