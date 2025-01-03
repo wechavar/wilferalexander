@@ -63,114 +63,24 @@ I frequently work with the following Python libraries:
 <a href="https://github.com/wilferalexander/Covid19/blob/main/Covid19.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</div>                                            
+</div>
 </td>
 </tr>
 
 <td width="50%">
 <h3>ROBOT TRADING</h3>
-<div>                                       
+<div>
 <a href="https://github.com/wilferalexander/-robot_trading-" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python
  capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>
-</div> 
+</div>
 <a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 </td>
-</tr>                                         
-
-<td width="50%">
-<h3>FUGA EMPLEADOS</h3>
-<div>
-<a href="https://github.com/wilferalexander/Fuga_Empleados" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/fugaempleados.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">El objetivo principal del proyecto en el que vas a trabajar es reducir la fuga de empleados en la empresa. Nos enfocamos en tres áreas clave: 
-    Entender y cuantificar el problema desde el punto de vista del negocio.
-    Desarrollar un sistema automatizado de machine learning que identifique a los empleados con mayor riesgo de fuga.
-    Comunicar los resultados de manera efectiva a la dirección.
-Utilizamos Python para este proceso y Tableau para visualizar los resultados. Puedes ver el..
-</p>
-<a href="https://github.com/wilferalexander/Fuga_Empleados/blob/main/Fuga_Empleados.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-</td>
-</tr>
- 
-<td width="50%">
-<h3>INTERACTIVE SALES DASHBOARD</h3>
-<div>
-<a href="https://github.com/wilferalexander/sales_dashboard_streamlit" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/storedash.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Eejemplo de un  dashboard Funcionalidades
-📊 Visualización de datos de ventas
-📈 Creación de gráficos y tablas interactivos.
-🔍 Filtrado y segmentación de datos por diferentes criterios..</p>
-</div>
-<a href="https://github.com/wilferalexander/sales_dashboard_streamlit/blob/main/dashboard.py" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-</td>
 </tr>
 
-<tr>
-<td width="50%">
-<h3>CREDIT SCORING</h3>
-<div>
-<a href="https://github.com/wilferalexander/creditscoring" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/creditscoring.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">Credit Scoring es un proyecto de machine learning enfocado en la predicción de la solvencia crediticia de los individuos. Este proyecto tiene como objetivo desarrollar un modelo predictivo que ayude a las instituciones financieras a tomar decisiones informadas sobre la concesión de créditos. . La importancia de reducir el riesgo crediticio es clave en el sector financiero. Nuestro cliente, una institución financiera alemana, ha reconocido la necesidad de adoptar enfoques innovadores para mejorar su capacidad de evaluar el riesgo crediticio de los clientes. La misión principal es identificar y clasificar a los clientes en dos categorías: "Buen Cliente (0)" y "Mal Cliente (1)". Este análisis permitirá a la institución tomar decisiones informadas y mitigar el riesgo de pérdidas crediticias.</p>
-                                                        
-<a href="https://github.com/wilferalexander/creditscoring/blob/main/CreditScoring.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-
-<td width="50%">
-<h3>Consumer_Spending_Prediction</h3>
-<div>                                       
-<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/Consumer_Spending_Prediction.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web..</p>
-                                                           
-<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction/blob/main/Consumer_Spending_Prediction_Layout1.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-</tr>
-<td width="50%">
-<h3>La Esencia del cliente</h3>
-<div>                                       
-<a href="https://github.com/wilferalexander/LaEscenciadelcliente" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/La%20Esencia%20del%20cliente.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">PREDECIR EL COSTE DE LAS CAMPAÑAS EN LOS MEDIOS DE COMUNICACIÓN EN FOOD MART DE EE.UU. EN BASE A LOS INGRESOS DE 60K CLIENTES, PRODUCTO, PROMOCIÓN Y CARACTERÍSTICAS DE LA TIENDA..</p>
-</div>                                                             
-<a href="https://github.com/wilferalexander/LaEscenciadelcliente/blob/main/La_esencia_del_cliente.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-
-<td width="50%">
-<h3>Analisis de sentimientos</h3>
-<div>                                       
-<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/sentiment.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Proyecto realizado para la Open University de los Países Bajos: En este proyecto, se llevó a cabo un análisis de sentimientos de varias aerolíneas utilizando información extraída de Twitter. El objetivo fue comprender los algoritmos y cómo se aplican en la ciencia de datos..</p>
-                                                             
-<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-</tr>
-
-<td width="50%">
-<h3>Predeccir la edad del Abalone</h3>
-<div>                                       
-<a href="https://github.com/wilferalexander/Task1" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/abalon.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Proyecto realizado para la Open University de los Países Bajos: Este conjunto de datos se recomienda para aprender y practicar sus habilidades en análisis de datos exploratorios , visualización de datos y técnicas de modelado de clasificación . Siéntase libre de explorar el conjunto de datos con múltiples técnicas de aprendizaje supervisadas y no supervisadas ..</p>
-                                                             
-<a href="https://github.com/wilferalexander/Task1/blob/main/Analisis%20del%20abalon.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-</tr>
 
 
 
